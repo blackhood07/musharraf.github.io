@@ -58,6 +58,7 @@ p {
 .icon-lg {
     font-size: 35px;
     line-height: 10px;
+    align:center;
 }
 
 .bg-primary {
